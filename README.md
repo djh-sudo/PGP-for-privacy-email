@@ -3,7 +3,7 @@
 ![](https://github.com/djh-sudo/PGP-for-privacy-email/blob/main/demo.gif)
 
 # PGP框架
-![](https://github.com/djh-sudo/PGP-for-privacy-email/blob/main/1.png)
+![](https://github.com/djh-sudo/PGP-for-privacy-email/blob/main/d1.png)
 
 # 程序流程
 ![](https://github.com/djh-sudo/PGP-for-privacy-email/blob/main/2.png)
